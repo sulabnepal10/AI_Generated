@@ -2,7 +2,8 @@
 
 A machine learning–powered web application that detects whether an image is **AI-generated or real**. Built using **Streamlit**, **Convolutional Neural Networks (CNNs)**, and activation functions such as **ReLU** and **Sigmoid**, the model is fine-tuned for high accuracy and minimal false predictions.  
 
----
+![App Screenshot](streamlit.png)
+![Process Screenshot](model.png)
 
 ## 🚀 Features  
 
